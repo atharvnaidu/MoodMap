@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/MoodMap/static/js/main.20dab253.js",
+    "main.js": "/MoodMap/static/js/main.851aa48c.js",
     "index.html": "/MoodMap/index.html",
-    "main.20dab253.js.map": "/MoodMap/static/js/main.20dab253.js.map"
+    "main.851aa48c.js.map": "/MoodMap/static/js/main.851aa48c.js.map"
   },
   "entrypoints": [
-    "static/js/main.20dab253.js"
+    "static/js/main.851aa48c.js"
   ]
 }
